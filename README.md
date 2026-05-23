@@ -83,7 +83,7 @@ The notebook covers:
 3. Zero-shot pairwise accuracy computation across all 66 label pairs
 4. Figure 1, cosine similarity heatmap
 5. Figure 2, similarity vs. accuracy scatter plot
-6. Exact values for the LaTeX table
+6. Results Table
 
 ---
 
