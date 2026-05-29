@@ -76,28 +76,28 @@ Caption: dagger = p > 0.05 (insufficient power, n = 66 pairs)
 ## Figures
 
 Figure 1. Label-pair cosine similarity versus pairwise zero-shot accuracy across all four conditions. Regression line and Spearman rho annotated per panel. Negative slope is consistent across all datasets and conditions.
-![Figure 1](Main Research/outputs/figures/fig2_rq1_scatter_4panel.png)
+![Figure 1](<Main Research/outputs/figures/fig2_rq1_scatter_4panel.png>)
 
 Figure 2. RQ1 replicated across four sentence encoders (BANKING77, bare labels). All four encoders show a negative Spearman rho, all significant at p <= 0.0004. RSA rho stable within 0.009 across architectures.
-![Figure 2](Main Research/outputs/figures/fig7_rq1_multi_encoder_replication.png)
+![Figure 2](<Main Research/outputs/figures/fig7_rq1_multi_encoder_replication.png>)
 
 Figure 3. RSA permutation null distributions for BANKING77 (left) and CLINC150 (right). Red dashed line marks the observed rho. z-scores of 14.0 and 12.5 confirm the result is not a statistical artefact.
-![Figure 3](Main Research/outputs/figures/fig8_rsa_permutation_null_distribution.png)
+![Figure 3](<Main Research/outputs/figures/fig8_rsa_permutation_null_distribution.png>)
 
 Figure 4. Mean pairwise zero-shot accuracy by label similarity bin (BANKING77, bare labels). Monotone decline from 60.5% in [0.0, 0.2) to 56.2% in [0.4, 0.6) confirms the effect is continuously graded.
-![Figure 4](Main Research/outputs/figures/fig13_similarity_binning_analysis.png)
+![Figure 4](<Main Research/outputs/figures/fig13_similarity_binning_analysis.png>)
 
 Figure 5. Mean inter-class cosine similarity versus accuracy change from Gemini-2.5-Flash descriptions across three dataset scales. The monotone relationship confirms label-space density moderates description effectiveness.
-![Figure 5](Main Research/outputs/figures/fig15_density_vs_description_effectiveness.png)
+![Figure 5](<Main Research/outputs/figures/fig15_density_vs_description_effectiveness.png>)
 
 Figure 6. Cosine similarity and Jaccard similarity as competing predictors of pairwise accuracy. Adding Jaccard yields R2 = 0.0108, identical to the cosine-only model, confirming the effect is semantic rather than lexical.
-![Figure 6](Main Research/outputs/figures/fig11_lexical_overlap_vs_embedding_similarity.png)
+![Figure 6](<Main Research/outputs/figures/fig11_lexical_overlap_vs_embedding_similarity.png>)
 
 Figure 7. CLINC150 intra-domain RSA rho = +0.208 versus inter-domain rho = +0.119. Within-domain label geometry is 1.75x more predictive of confusion, mechanistically explaining the weaker aggregate RSA.
-![Figure 7](Main Research/outputs/figures/fig10_clinc150_intra_inter_domain_rsa.png)
+![Figure 7](<Main Research/outputs/figures/fig10_clinc150_intra_inter_domain_rsa.png>)
 
 Figure 8. Cosine similarity heatmap across all 77 BANKING77 intent label embeddings. High-similarity clusters correspond to the confusion hotspots identified in the error analysis.
-![Figure 8](Main Research/outputs/figures/fig1_banking77_heatmap_bare.png)
+![Figure 8](<Main Research/outputs/figures/fig1_banking77_heatmap_bare.png>)
 
 ---
 
