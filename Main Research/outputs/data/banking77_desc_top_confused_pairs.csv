@@ -1,0 +1,21 @@
+label_i,label_j,cosine_sim,confusion,n_samples
+get physical card,identity verification mobile number,0.4535038471221924,1.0,40
+get physical card,incorrect currency received,0.23891377449035645,1.0,40
+high value transfer,why is card on the way,0.3368186056613922,1.0,40
+get physical card,high value transfer,0.25897473096847534,1.0,40
+identity verification mobile number,why is card on the way,0.20471344888210297,1.0,40
+incorrect currency received,why is card on the way,0.28065934777259827,1.0,40
+get physical card,international fee,0.2549384832382202,1.0,40
+international fee,why is card on the way,0.23681698739528656,1.0,40
+get physical card,why is card on the way,0.5484951734542847,1.0,80
+get physical card,order physical card,0.9046949148178101,0.9625,80
+order physical card,why is card on the way,0.5943573713302612,0.9625,80
+exchange via app,why is card on the way,0.18971958756446838,0.9375,80
+exchange via app,get physical card,0.22661171853542328,0.9375,80
+beneficiary not allowed,why is card on the way,0.18115390837192535,0.93125,160
+beneficiary not allowed,get physical card,0.1551455855369568,0.93125,160
+incorrect currency received,order physical card,0.2623929977416992,0.925,40
+identity verification mobile number,order physical card,0.347544401884079,0.925,40
+international fee,order physical card,0.2506122887134552,0.925,40
+high value transfer,order physical card,0.2470180094242096,0.925,40
+beneficiary not allowed,order physical card,0.13287705183029175,0.9125,160

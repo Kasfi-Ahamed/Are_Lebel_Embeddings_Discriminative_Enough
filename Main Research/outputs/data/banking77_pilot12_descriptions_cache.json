@@ -1,0 +1,14 @@
+{
+  "card_arrival": "User is enquiring about when their newly ordered card will arrive by post or delivery.",
+  "card_delivery_estimate": "User is asking for a specific estimated delivery date or timeframe for a card that has been dispatched.",
+  "card_linking": "User wants to link their card to a third-party app, digital wallet, or payment service.",
+  "card_not_working": "User reports their card is being declined or not functioning when attempting to make in-store or online purchases.",
+  "declined_card_payment": "User's card payment was declined at a merchant and they want to understand why and resolve the issue.",
+  "lost_or_stolen_card": "User has lost their physical card or it has been stolen and wants to report it and get a replacement.",
+  "transfer_not_received_by_recipient": "The user sent a transfer but the recipient has not received the funds and both parties are trying to locate the money.",
+  "transfer_timing": "User wants to know how long a transfer will take to arrive at the recipient's account.",
+  "exchange_rate": "User wants to know the current exchange rate between two currencies for a potential transaction.",
+  "cash_withdrawal_charge": "User has been charged a fee for making a cash withdrawal and wants to understand or dispute the charge.",
+  "balance_not_updated_after_bank_transfer": "User reports their account balance has not been updated after sending or receiving a bank transfer.",
+  "getting_spare_card": "User wants to get an additional or backup card for their existing account."
+}
