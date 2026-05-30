@@ -1,8 +1,0 @@
-label_i,label_j,bare_confusion,desc_confusion,improvement
-topping up by card,why is card on the way,1.0,0.9875,0.0125
-incorrect currency received,why is card on the way,1.0,1.0,0.0
-high value transfer,why is card on the way,1.0,1.0,0.0
-identity verification mobile number,why is card on the way,1.0,1.0,0.0
-international fee,why is card on the way,1.0,1.0,0.0
-topping up by card,receiving money,0.85,0.9875,-0.1375
-why is card on the way,receiving money,0.85,1.0,-0.15
